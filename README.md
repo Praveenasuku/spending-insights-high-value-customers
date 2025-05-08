@@ -35,9 +35,9 @@ This project leverages data analytics and machine learning to identify and predi
 
 ## Project Structure
 
-* **data/**: Contains the customer transaction data.
-* **notebooks/**: Data analysis, visualization, and modeling notebooks.
-* **scripts/**: Python scripts for data processing and model training.
+* data/: Contains the customer transaction data.
+* notebooks/: Data analysis, visualization, and modeling notebooks.
+* scripts/: Python scripts for data processing and model training.
 
 ## License
 
